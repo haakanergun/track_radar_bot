@@ -9,7 +9,6 @@ TrackRadar is a Twitter bot that identifies and provides information about songs
 - Replies with song information, including:
     - Artist name
     - Song title
-    - Time interval in the song
     - YouTube URL for the song
 
 ## Installation and Setup
