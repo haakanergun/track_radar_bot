@@ -52,12 +52,9 @@ TrackRadar currently supports the following languages for search queries:
 ## Dependencies
 
 - tweepy
-- requests
-- json
 - acrcloud
 - google-api-python-client
-- spotipy
-- openai
+
 
 ## Contributing
 
