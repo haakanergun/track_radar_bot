@@ -42,12 +42,6 @@ python bot_v3.py
 1. Mention the bot's username in a tweet containing a video, or ask for the song's name in a reply to a tweet containing a video.
 2. The bot will analyze the video, identify the song, and reply with the song information.
 
-## Supported Languages
-
-TrackRadar currently supports the following languages for search queries:
-
-- English
-- Turkish
 
 ## Dependencies
 
